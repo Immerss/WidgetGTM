@@ -1,5 +1,5 @@
 homepage: "https://immerss.live"
 documentation: "https://immerss.live/docs/google-tag-manager-integrations#gtm-widget-instruction"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: 14fdb629246e94e566a0a66042e7faf6cec7723d
+    changeNotes: First release Widget.
